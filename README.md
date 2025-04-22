@@ -9,7 +9,7 @@ Built with simplicity and security in mind, SimpleVoting ensures:
 - **Clear poll management** through active/inactive status control
 
 ##
-![Alt Text]("C:\Users\ASUS\Desktop\aptos\aptosSs.jpg")
+![Demo]("C:\Users\ASUS\Desktop\aptos\assets\aptosSs.jpg")
 
 
 ---
