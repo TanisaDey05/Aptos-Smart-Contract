@@ -32,8 +32,8 @@ While the current version covers the basics of poll creation and voting, the roa
 
 
 ## ⚙️ Contract Details  
-- **Module Address**: `0x8e46115deae69c3ffc41c50f29c94501935467de0212a666d2f0f0b83f1574ac`  
-- **Transaction Hash**: `0xd91920a2697ba0fbc8039625b57b1050edafd3bcfbbd6b3821d6460facabaced`  
+- **Module Address**: `0xfc616a2a3d4e8dfeb3c97e9e2323e247c42988f6ed992c40370e07b574454370`  
+- **Transaction Hash**: `0x2ecf2ef172fda31c10134b75891b641fcb45db13ec9ba4c9e1e67593edb3309e`  
 - **Module Name**: `MyModule::SimpleVoting`  
 
 ### 🔑 Key Functions  
