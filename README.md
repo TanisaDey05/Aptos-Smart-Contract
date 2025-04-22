@@ -8,6 +8,10 @@ Built with simplicity and security in mind, SimpleVoting ensures:
 - **Immutable records** of all voting activities
 - **Clear poll management** through active/inactive status control
 
+##
+![Alt Text]("C:\Users\ASUS\Desktop\aptos\aptosSs.jpg")
+
+
 ---
 
 ## 🎯 Project Vision  
