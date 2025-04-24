@@ -1,4 +1,5 @@
 [package]
+<<<<<<< HEAD
 name = "medical_contract"
 version = "2.0.0"
 authors = []
@@ -8,6 +9,15 @@ my_add='0xfc616a2a3d4e8dfeb3c97e9e2323e247c42988f6ed992c40370e07b574454370'
 
 [dev-addresses]
 my_add='0xfc616a2a3d4e8dfeb3c97e9e2323e247c42988f6ed992c40370e07b574454370'
+=======
+name = "gdg"
+version = "1.0.0"
+authors = []
+
+[addresses]
+
+[dev-addresses]
+>>>>>>> 2d3e4427ce7028afb9f78a5461c08c3e81bebf44
 
 [dependencies.AptosFramework]
 git = "https://github.com/aptos-labs/aptos-framework.git"
